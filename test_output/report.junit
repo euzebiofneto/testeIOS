@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites name='BDDUITests.xctest' tests='5' failures='1'>
+  <testsuite name='CCItest1' tests='1' failures='0'>
+    <testcase classname='CCItest1' name='test' time='8.268'/>
+  </testsuite>
+  <testsuite name='CCItest2' tests='4' failures='1'>
+    <testcase classname='CCItest2' name='test' time='3.030'/>
+    <testcase classname='CCItest2' name='test1' time='3.240'/>
+    <testcase classname='CCItest2' name='test2' time='2.934'/>
+    <testcase classname='CCItest2' name='test3'>
+      <failure message='The step &quot;Given Teste&quot; is not implemented'>teste1.feature:13</failure>
+    </testcase>
+  </testsuite>
+</testsuites>
