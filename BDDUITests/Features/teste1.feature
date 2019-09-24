@@ -10,4 +10,4 @@ Scenario: Test2
     Given the app is running
 
 Scenario: Test3
-    Given the app is 
+    Given the app is running
