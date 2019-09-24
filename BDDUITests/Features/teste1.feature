@@ -8,3 +8,6 @@ Scenario: Test1
 
 Scenario: Test2
     Given the app is running
+
+Scenario: Test3
+    Given the app is running
